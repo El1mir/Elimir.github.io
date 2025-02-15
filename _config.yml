@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Elimir的个人博客
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Elimir
+language: zh-Hans
 timezone: ''
 
 # URL
@@ -96,7 +96,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme:
+  switch: true
+  default: style-light # style-light style-dark
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
