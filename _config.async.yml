@@ -1,0 +1,28 @@
+user:
+  name: Elimir
+  first_name: Elimir
+  last_name: Xiao
+  email: 2247335689@qq.com
+  domain: https://www.imalun.com
+  avatar: /img/avatar.jpg
+  describe: Elimir的个人博客
+  rule_text: 暂不接受友链申请
+  
+sidebar:
+  social: # 社交地址
+    - name: github
+      icon: fab fa-github
+      url: https://github.com/1Eliver
+  info: # 个人信息
+    - key: 居住地
+      val: 云南
+    - key: 年龄
+      val: 16
+    - key: MBTI
+      val: INTP
+      
+creative_commons:
+  license: by-nc-nd
+  language: deed.zh-hans
+  post: true
+  clipboard: true
