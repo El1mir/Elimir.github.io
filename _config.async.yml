@@ -3,12 +3,14 @@ user:
   first_name: Elimir
   last_name: Xiao
   email: 2247335689@qq.com
-  domain: https://www.imalun.com
+  domain: https://Elimir.github.io/
   avatar: /img/avatar.jpg
   describe: Elimir的个人博客
   rule_text: 暂不接受友链申请
   
 sidebar:
+  typed_text_prefix: 努力
+  typed_text: ["是为了更好的明天"]
   social: # 社交地址
     - name: github
       icon: fab fa-github
@@ -26,3 +28,27 @@ creative_commons:
   language: deed.zh-hans
   post: true
   clipboard: true
+  
+top_bars:
+  - title: 首页
+    url: /
+  - title: 分类
+    children:
+      - title: 归档
+        url: /archives/
+      - title: 标签
+        url: /tags/
+      - title: 分类
+        url: /categories/
+
+footer:
+  powered:
+    enable: true
+  beian:
+    enable: false
+    icp:
+  copyright_year: 2025
+  live_time:
+    enable: true
+    prefix: footer.tips
+    start_time: 2025-01-20
